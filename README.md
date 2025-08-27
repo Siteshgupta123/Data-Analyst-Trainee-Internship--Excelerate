@@ -14,11 +14,11 @@
 This repository documents my **4-week internship journey at Excelerate** as a Data Analyst Trainee.  
 Along with my teammates in **Team-09**, I worked on transforming messy raw data into meaningful insights through **cleaning, analysis, visualization, and storytelling dashboards**.  
 
-The journey was structured into **four key weeks**:  
-1. Data Cleaning & Preparation  
-2. Visualization Best Practices  
-3. Campaign Insights & Recommendations  
-4. Final Dashboard & Presentation  
+- The journey was structured into **four key weeks**:  
+  1. Data Cleaning & Preparation  
+  2. Visualization Best Practices  
+  3. Campaign Insights & Recommendations  
+  4. Final Dashboard & Presentation  
 
 ---
 
@@ -65,12 +65,14 @@ We focused on:
 - **Strategic Analysis:** I conducted an in-depth exploratory data analysis to uncover key business insights, focusing on audience performance, geographical impact, and cost efficiency.
 
 - **Dashboard Design:** I designed and developed a comprehensive, two-page dashboard using Google Looker Studio to visualize our findings. The dashboard was structured for different stakeholders:
-- **Page 1:** Performance Summary — Focused on a high-level overview of key metrics like Reach, Impressions, and Unique Link Clicks.
+- **Page 1:**
+    -  Performance Summary — Focused on a high-level overview of key metrics like Reach, Impressions, and Unique Link Clicks.
 
 <img width="1886" height="1066" alt="Screenshot 2025-08-25 222036" src="https://github.com/user-attachments/assets/0ab27b22-acb6-40dc-b5f5-59f6d7da8549" />
 
 _________
-**Page 2:** Strategic Insights — Focused on deeper, more analytical relationships like CPR trends and the relationship between Frequency and CTR (ad fatigue analysis).
+**Page 2:**
+  - Strategic Insights — Focused on deeper, more analytical relationships like CPR trends and the relationship between Frequency and CTR (ad fatigue analysis).
 <img width="1893" height="1064" alt="Screenshot 2025-08-25 222119" src="https://github.com/user-attachments/assets/31a63c91-d8cc-4152-9902-cff921e5ffb1" />
 
 - **My Contribution:** I helped compare **CPC, CPR, CTR, and reach metrics**, and identified which campaigns were draining budget and which deserved more investment.  
@@ -80,9 +82,9 @@ _________
 - My analysis provided several critical insights that directly led to actionable business recommendations:
   - **Audience Performance:** The Students audience was our most successful, driving a massive **4,379** unique link clicks, proving our core targeting strategy was highly effective.
   
-  - **Cost Efficiency:** I discovered a significant difference in campaign efficiency. **Campaign 8** was our most cost-effective, with a remarkably low **$0.99 Cost per Result (CPR).**
+  - **Cost Efficiency:** I discovered a significant difference in campaign efficiency. **Campaign 8** was our most cost-effective, with a remarkably low **₹0.99 Cost per Result (CPR).**
   
-  - **Budget Optimization:** Based on the data, I provided a clear recommendation to discontinue underperforming campaigns with a **high CPR**, such as **Campaign 11 ($21.57 CPR)**.
+  - **Budget Optimization:** Based on the data, I provided a clear recommendation to discontinue underperforming campaigns with a **high CPR**, such as **Campaign 11 (₹21.57 CPR)**.
   
   - **Resource Reallocation:** I recommended reallocating the budget from these inefficient campaigns to our top performers (like **Campaign 8**) to maximize our overall **ROI**.
 -----------
@@ -128,5 +130,9 @@ This internship was a journey **from raw data → to cleaned dataset → to mean
 - **Carry Forward:** Always simplify first, highlight what matters, and tell the data’s story.  
 
 ---
+Acknowledgments
+- **Kolawole Oparinde Sir** – For expert guidance and sharp feedback.
+- **Akansha Mam** – For constant support and direction.
+- **Team 09** (  Sitesh Gupta, Divya Shivana, Maryam Umar, Aashi Kurdia, Balakoti ) – For collaboration, shared learning, and execution.
 
 📌 *This repository is a reflection of my journey as a Data Analyst Trainee at Excelerate, where I contributed to cleaning, analyzing, visualizing, and storytelling with data alongside Team-09.*  
