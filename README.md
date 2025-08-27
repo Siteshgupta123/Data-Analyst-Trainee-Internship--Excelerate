@@ -6,7 +6,7 @@
 
 **Team-09 | August 2025**  
 **Associate:** Kolawole Oparinde  
-**Team Members:** Sitesh Gupta, Divya, Maryam, Aashi, Balakoti  
+**Team Members:** Sitesh Gupta, Divya Shivana, Maryam Umar, Aashi Kurdia, Balakoti  
 
 ---
 
