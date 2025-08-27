@@ -63,7 +63,6 @@ We focused on:
 
 ## Week 3: Exploratory Data Analysis (EDA) & Dashboarding
 - **Strategic Analysis:** I conducted an in-depth exploratory data analysis to uncover key business insights, focusing on audience performance, geographical impact, and cost efficiency.
-
 - **Dashboard Design:** I designed and developed a comprehensive, two-page dashboard using Google Looker Studio to visualize our findings. The dashboard was structured for different stakeholders:
 - **Page 1:**
     -  Performance Summary — Focused on a high-level overview of key metrics like Reach, Impressions, and Unique Link Clicks.
@@ -87,6 +86,8 @@ _________
   - **Budget Optimization:** Based on the data, I provided a clear recommendation to discontinue underperforming campaigns with a **high CPR**, such as **Campaign 11 (₹21.57 CPR)**.
   
   - **Resource Reallocation:** I recommended reallocating the budget from these inefficient campaigns to our top performers (like **Campaign 8**) to maximize our overall **ROI**.
+ 
+- Live Dashboard Link:https://lookerstudio.google.com/reporting/7db24cd3-6b9f-4265-b621-68586d929c86
 -----------
 ## Week 4: Finalization & Strategic Communication
 - **Actionable Insights:** I summarized the most critical insights from my analysis into clear, concise findings.
